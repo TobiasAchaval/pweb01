@@ -40,6 +40,13 @@ nav {
     margin: auto 70px;
 }
 
+.ImgCarnetD {
+    width: 250px;
+    height: 120px;
+    border-radius: 25px 25px 25px 25px;    
+    margin: auto 70px;
+}
+
 .container {
     display: flex;
     padding: 20px;
