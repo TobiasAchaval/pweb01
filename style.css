@@ -172,7 +172,7 @@ h4{
 }
 @media only screen and (max-width:492px) {
     .container {
-        padding-top: 550px;
+        padding-top: 549px;
         flex-direction: column;
         align-items: center;
     }
